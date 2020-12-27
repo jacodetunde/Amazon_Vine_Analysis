@@ -13,4 +13,4 @@ In this project, I make use of musical instruments datasets.It contains reviews 
 ![paid_percent.png](paid_percent.png) ![unpaid_percent.png](unpaid_percent.png)
 
 ## Summary
-The analysis make us of paid and unpaid Vine column. There might be bias of hasty generilization. I think verified_purchases column should be used to ascertain that the people who reviewed the products are actual buyers of the product.
+The analysis makes use of the paid and unpaid Vine column. There might be a bias of hasty generalization. The verified_purchases column should be used to ascertain that the people who reviewed the products are actual buyers of the product.
